@@ -46,4 +46,4 @@
 
 [![Linkedin: Victor Baydir](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/victor-baydir-1a842a22a/)
 [![Gmail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:victorbaydir@hotmail.com)](mailto:victorbaydir@hotmail.com)
-[![GitHub victorbaydir]( https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victorbaydir/READme/edit/main/README.md)
+[![GitHub victorbaydir]( https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victorbaydir/READme)
