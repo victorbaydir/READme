@@ -38,7 +38,7 @@
 <br/>
 
 <a href="https://github.com/victorbaydir">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorbaydir&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorbaydir&theme=default&show_icons=true" />
 </a>
 <br/>
 
