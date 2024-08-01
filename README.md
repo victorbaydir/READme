@@ -4,7 +4,7 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando Análise e Desenvolvimento de Sistemas no <a href="https://estacio.br">Faculdade Estácio</a>.
+- 🎓 &nbsp; Estudando Análise e Desenvolvimento de Sistemas no <a href="https://estacio.br">Faculdade Estácio </a>.
 - 💼 &nbsp; Trabalhando como Desenvolvimento Web - Fullstack na <a href="https://www.instagram.com/otimizeti">Otimize-TI</a>
 - 🌱 &nbsp; Aprendendo mais sobre a cada dia!.
 
